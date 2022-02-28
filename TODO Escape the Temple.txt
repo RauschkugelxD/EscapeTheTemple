@@ -12,3 +12,11 @@
 - Wall - Camera Collisison (L)
 - Cinematic Finale (L)
 
+
+
+
+Tutorial:
+
+1. Grab a candle to light your way
+2. Find the torch, it will spend more light
+3. Find the key to exit the grave
